@@ -1,0 +1,21 @@
+{
+  "name": "wellnesstracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://x-access-token:ghs_TY2yQWWjBKkDP3Q9bbyYYq8iqfGriH2aBdyg@github.com/Aqeelsiaan/WellnessTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aqeelsiaan/WellnessTracker/issues"
+  },
+  "homepage": "https://github.com/Aqeelsiaan/WellnessTracker#readme"
+}
