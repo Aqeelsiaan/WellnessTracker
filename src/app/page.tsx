@@ -23,14 +23,14 @@ export default function HomePage() {
               and personalized wellness plans designed for your unique journey.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/register">
+              <Link href="/demo">
                 <Button size="lg" variant="primary" className="w-full sm:w-auto">
-                  Get Started Free
+                  🚀 Try Live Demo
                 </Button>
               </Link>
-              <Link href="/login">
+              <Link href="/register">
                 <Button size="lg" variant="outline" className="w-full sm:w-auto">
-                  Sign In
+                  Get Started Free
                 </Button>
               </Link>
             </div>
