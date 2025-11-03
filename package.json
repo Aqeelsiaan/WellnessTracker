@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/Aqeelsiaan/WellnessTracker/issues"
   },
-  "homepage": "https://github.com/Aqeelsiaan/WellnessTracker#readme"
+  "homepage": "https://github.com/Aqeelsiaan/WellnessTracker#readme",
+  "dependencies": {
+    "next": "^16.0.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "typescript": "^5.9.3"
+  }
 }
